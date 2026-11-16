@@ -1,0 +1,1 @@
+TODO: Kurze Erläuterung zum Double Diamond aus dem Design Thinking. Verständnis zu Problemraum und Lösungsraum schaffen.
