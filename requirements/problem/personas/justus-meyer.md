@@ -1,5 +1,5 @@
 # Justus Meyer
-*Student (BWL Bachelor)*
+*Student (BWL Bachelor) -  21 Jahre alt - Single - wohnt in einem Außenbezirk der Stadt - Ursprünglich aus München*
 
 > [!NOTE]
 > Persona mittels https://facili.tools/tools/persona erstellt.
@@ -22,15 +22,16 @@ Steht um 6:30 Uhr auf, um gegen 7:00 Uhr mit der Bahn zur Uni zu fahren. Kommt 1
 ## Sagt
 - Der Return on Investment muss stimmen.
 - Ich will meine Prüfungen bestehen, aber mich nicht mit Kleinigkeiten aufhalten.
-- "Was ich beruflich in Zukunft genau mache habe ich noch nicht final entschieden."
+- Was ich beruflich in Zukunft genau mache habe ich noch nicht final entschieden.
 
 ## Fühlt
 - Einsam, sucht sozialen Anschluss
+- Angst, Anschluss zu verlieren
 
 ## Tut
 - Geht jede Woche mindestens zweimal ins Gym und einmal golfen.
 - Bevorzugt telefonischen Kontakt und Sprachnachrichten über lange Texte.
-- Verfolgt angeregt Bewegungen auf dem Aktienmarkt
+- Verfolgt angeregt Bewegungen auf dem Aktienmarkt.
 
 ## Brennt für
 - Netzwerken auf Partys für das eigene Image.
@@ -39,7 +40,8 @@ Steht um 6:30 Uhr auf, um gegen 7:00 Uhr mit der Bahn zur Uni zu fahren. Kommt 1
 ## Pains
 - Es fehlen ihm die Möglichkeiten mehr Kontakte aufzubauen (Kontakt mit Gleichgesinnten)
 - Angst den Erwartungen (von Familie, Freunden) nicht gerecht zu werden.
-- Will den Anschluss in seiner Seminargruppe nicht verlieren (nicht zum Außenseiter werden)
+- Will den Anschluss in seiner Seminargruppe nicht verlieren (nicht zum Außenseiter werden).
+- Nimmt seine Termine zu Lasten wirklicher Freizeit wahr (fühlt sich gezwungen soziale Termine wahrzunehmen).
 
 ## Gains
 - Mehr Freizeit und weniger Aufgaben neben den Vorlesungen.
@@ -48,9 +50,11 @@ Steht um 6:30 Uhr auf, um gegen 7:00 Uhr mit der Bahn zur Uni zu fahren. Kommt 1
 
 ## Ziele
 - Studium mit einem guten Ergebnis zu möglichst geringem Aufwand abschließen.
-- Nach dem Studium gleich mit hohem Einstiegsgehalt starten und Kontakte nutzen
+- Nach dem Studium gleich mit hohem Einstiegsgehalt starten und Kontakte nutzen.
 - Netzwerk aus Freundschaften und Bekanntschaften knüpfen, die ihn voranbringen.
+- Mehr Zeit bekommen, die eigentlichen, tatsächlichen Freizeitinteressen gegenüber der sozialen Verpflichtungen wahrzunehmen.
 
 ## Umfeld & Einflüsse
 - In einem behüteten Umfeld aufgewachsen und muss sich keine Gedanken um sein Auskommen machen
 - Eltern aus dem oberen Mittelstand
+- Eltern leben ihm ein durchgetaktetes, freizeitarmes Leben vor
